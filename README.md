@@ -25,7 +25,7 @@ added. It's included alongside the [finished game](https://github.com/emmag37/MG
 
 ## Demo Video
 
-[![Prototype Demo](Assets/MG1-prototype-screenshots/GamePlay.png)](https://youtube.com/shorts/HytOvxDakWQ?feature=share)
+[![Prototype Demo](Assets/MG1-prototype-screenshots/GamePlay.png)](https://github.com/emmag37/mg1-proto/issues/1)
 
 ## What came after this build
 
